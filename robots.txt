@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bedamckoy-commits.github.io/hero11-verify-docs/sitemap.xml
